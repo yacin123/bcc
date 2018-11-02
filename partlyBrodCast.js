@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const partly = new Discord.Client();
 
-var prefix = "بريفكس بوتك"
+var prefix = "O"
 
 console.log('Created By Partly Since 2018/4/1')
 
