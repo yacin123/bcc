@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();   
-const prefix = "" //بريفيكس بوتك
-const token = [""]; //توكن بوتك 
+const prefix = "o" //بريفيكس بوتك
+const token = ["NTA3MzM3NjQ0MTUwMjI2OTQ2.Dr49HQ.1NMh8QpZPToASmyRf-ErmukxpsM"]; //توكن بوتك 
 
 
 
